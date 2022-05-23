@@ -61,25 +61,25 @@ export default {
           id: 2,
           image:
             "https://pbs.twimg.com/profile_images/1138463345277898753/D6SrWJPH_400x400.jpg",
-          name: "Connor Morris",
+          name: "Eliza Bender",
           position: "Research Assistant",
-          LinkedIn: "connor-morris-123",
+          LinkedIn: "eliza-bender-123",
         },
         {
           id: 3,
           image:
             "https://pbs.twimg.com/profile_images/1138463345277898753/D6SrWJPH_400x400.jpg",
-          name: "Shant Amerkanian",
+          name: "Sidharth Chawla",
           position: "Polticial Policy Intern",
-          LinkedIn: "shant438",
+          LinkedIn: "sidh234",
         },
         {
           id: 4,
           image:
             "https://pbs.twimg.com/profile_images/1138463345277898753/D6SrWJPH_400x400.jpg",
-          name: "Julia Hornstein",
+          name: "Ari Salsberg",
           position: "Incoming Summer Analyst",
-          LinkedIn: "julia-horn",
+          LinkedIn: "ari-salsberg",
         },
         {
           id: 5,
@@ -93,9 +93,9 @@ export default {
           id: 6,
           image:
             "https://pbs.twimg.com/profile_images/1138463345277898753/D6SrWJPH_400x400.jpg",
-          name: "Avi Amerkanian",
-          position: "Sector Head - Consumer Staples",
-          LinkedIn: "garo-amerkanian-529976215",
+          name: "Rebecca Rosenzweig",
+          position: "Intern - --",
+          LinkedIn: "becca-343",
         },
       ],
       search: "",
